@@ -952,7 +952,7 @@ func (self *Tester) Focus() {
 	}
 }
 
-//		Terst(*testing.T)
+//Terst(*testing.T)
 //
 // Create a new terst Tester and return it.  Associate calls to Is, Compare, Like, etc. with the newly created terst.
 //
